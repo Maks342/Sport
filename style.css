@@ -16,8 +16,18 @@ body{
 	padding: 0 30px;
 }
 .colors{
-	
 	top:1000px;
 	left:1000px;
-	
 }
+ 
+ .sambo{
+	 width:200px;
+	 height:200px;
+	 
+ }
+ body{
+	 
+	background: rgb(141,101,226);
+    background: linear-gradient(90deg, rgba(141,101,226,1) 50%, rgba(110,129,215,1) 59%);
+	 
+ }
