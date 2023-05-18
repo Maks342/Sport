@@ -136,3 +136,21 @@ section{
 		gap: 15px;
 	}
 }
+.wrapper{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100vh;
+}
+.ggbot{
+	color:white;
+}
+.prosto{
+	font-family:monospace;
+}
+.shapka2{
+	font-family:sans-serif;
+}
+.hop{
+	font-family:Brush Script MT, Brush Script Std, cursive;
+}
